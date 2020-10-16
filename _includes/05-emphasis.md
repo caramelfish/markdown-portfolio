@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+##### Awesome Attributes!
+*Python*
+**CS50**
+_Organised_
+__Funny__
+**_Laidback_**
